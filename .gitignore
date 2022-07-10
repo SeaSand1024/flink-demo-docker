@@ -1,0 +1,12 @@
+checkpoint
+.classpath
+.idea/
+.metadata
+.settings
+.project
+.version.properties
+target
+.DS_Store
+*.iml
+datagen/user_behavior.log
+sql-client/lib/
